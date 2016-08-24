@@ -1,0 +1,14 @@
+[
+  {
+    "operation":"sum",
+    "numberA":1,
+    "numberB":2,
+    "expect":3
+  },
+  {
+    "operation":"sum",
+    "numberA":1,
+    "numberB":1,
+    "expect":2
+  }
+]
